@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/process-shu/hellotoday-download/releases/download/demo-20261118b/HelloToday-demo-20261118b.apk",
-  "notesZh": "分类页改版；首页间距更紧凑；新增更新提示。",
-  "notesEn": "Redesigned category page; tighter home spacing; update prompt added."
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/process-shu/hellotoday-download/releases/download/demo-20261119/HelloToday-demo-20261119.apk",
+  "notesZh": "“我的”页改版；首页下拉刷新；列表左滑快捷加购；无货商品到货提醒入口。",
+  "notesEn": "Redesigned Me page; pull to refresh on home; swipe-left quick add; restock alert entry for out-of-stock items."
 }
