@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://github.com/process-shu/hellotoday-download/releases/download/demo-20261120b/HelloToday-demo-20261120b.apk",
-  "notesZh": "修复首页分类图片过一会儿消失；图片按显示大小下载，更省流量。",
-  "notesEn": "Fixed home category images disappearing after a while; images now download at display size to save data."
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/process-shu/hellotoday-download/releases/download/demo-20261120c/HelloToday-demo-20261120c.apk",
+  "notesZh": "点“+”加购时改为平滑动画：图片收起、文字左移、数量面板从右侧展开。",
+  "notesEn": "Smoother quick add: the image collapses, text slides left and the quantity panel expands from the right."
 }
