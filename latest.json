@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "apkUrl": "https://github.com/process-shu/hellotoday-download/releases/download/demo-20261119/HelloToday-demo-20261119.apk",
-  "notesZh": "“我的”页改版；首页下拉刷新；列表左滑快捷加购；无货商品到货提醒入口。",
-  "notesEn": "Redesigned Me page; pull to refresh on home; swipe-left quick add; restock alert entry for out-of-stock items."
+  "versionCode": 5,
+  "versionName": "1.4",
+  "apkUrl": "https://github.com/process-shu/hellotoday-download/releases/download/demo-20261120/HelloToday-demo-20261120.apk",
+  "notesZh": "点“＋”快捷加购（半箱、一箱累加，确定后加入）；无货商品到货提醒；分类页显示速记码、箱含量、条码；“我的”页下拉看背景。",
+  "notesEn": "Tap + to add with half/full carton steps; restock alert for out-of-stock items; category cards show code, carton and barcode; pull down on Me to see the cover."
 }
